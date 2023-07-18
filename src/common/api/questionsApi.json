@@ -1,0 +1,170 @@
+[{
+        "id": 1,
+        "option": "EI",
+        "question": "목이 아프거나 인후통이 있나요?",
+        "answers": [{
+                "type": "E",
+                "content": "예"
+            },
+            {
+                "type": "I",
+                "content": "아니요"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "option": "EI",
+        "question": "콧물이 나거나 코가 먹혀있나요",
+        "answers": [{
+                "type": "E",
+
+                "content": "예"
+            },
+            {
+                "type": "I",
+                "content": "아니요"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "option": "EI",
+        "question": "기침이 있나요? 만성 기침이라면 기침이 얼마나 지속되었나요?",
+        "answers": [{
+                "type": "E",
+                "content": "한 달 이상"
+            },
+            {
+                "type": "I",
+                "content": "일주일 정도"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "option": "SN",
+        "question": "몸이 피로하거나 힘이 빠진 느낌이 있나요?",
+        "answers": [{
+                "type": "S",
+                "content": "예"
+            },
+            {
+                "type": "N",
+                "content": "아니요"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "which": "SN",
+        "question": "발열이 있나요? 체온이 얼마나 높은가요?",
+        "answers": [{
+                "type": "S",
+                "content": "37.5도 정도"
+            },
+            {
+                "type": "N",
+                "content": "38도 이상"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "which": "SN",
+        "question": "오한이나 몸이 춥게 느꺼지는 증상이 있나요?",
+        "answers": [{
+                "type": "S",
+                "content": "예"
+            },
+            {
+                "type": "N",
+                "content": "아니요"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "option": "TF",
+        "question": "근육이나 관절이 아프거나 통증이 있나요?",
+        "answers": [{
+                "type": "T",
+                "content": "예"
+            },
+            {
+                "type": "F",
+                "content": "아니요"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "option": "TF",
+        "question": "두통이 있나요? 어느 부위가 아픈가요",
+        "answers": [{
+                "type": "T",
+                "content": "관자놀이 쪽"
+            },
+            {
+                "type": "F",
+                "content": "뒷목 쪽"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "option": "TF",
+        "question": "식욕이 감소되었나요?",
+        "answers": [{
+                "type": "T",
+                "content": "예"
+            },
+            {
+                "type": "F",
+                "content": "아니요"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "option": "JP",
+        "question": "오심, 구토, 복통 등의 위장 문제가 있나요?",
+        "answers": [{
+                "type": "J",
+                "content": "예"
+            },
+            {
+                "type": "P",
+                "content": "아니요"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "option": "JP",
+        "question": "입이나 목이 건조하거나 아픈 느낌이 있나요?",
+        "answers": [{
+                "type": "J",
+                "content": "예"
+            },
+            {
+                "type": "P",
+                "content": "아니요"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "option": "JP",
+        "question": "눈이 따가운 느낌이 들거나 결막염 증상이 있나요?",
+        "answers": [{
+                "type": "J",
+                "content": "예"
+            },
+            {
+                "type": "P",
+                "content": "아니요"
+            }
+        ]
+    }
+]
